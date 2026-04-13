@@ -66,12 +66,12 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
 | echo.movie    | available | $69.99    | —             | 68             | 57     | 4      | name.com               |
 | pay.movie     | resell    | —         | —             | 84             | 60     | 3      | Wild West Domains, LLC |
-| digital.movie | premium   | $1,000    | $1,000        | 100            | 50     | 7      | name.com               |
+| digital.movie | premium   | $1,000    | $1,000        | 100            | 49     | 7      | name.com               |
 | alpha.movie   | available | $69.99    | $436.99       | 90             | 53     | 5      | name.com               |
 | info.movie    | resell    | —         | —             | 80             | 51     | 4      | NameCheap, Inc.        |
 | travel.movie  | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap              |
-| fast.movie    | available | $69.99    | $436.99       | 82             | 53     | 4      | name.com               |
-| design.movie  | resell    | —         | —             | 108            | 50     | 6      | Porkbun LLC            |
+| fast.movie    | available | $69.99    | $436.99       | 82             | 52     | 4      | name.com               |
+| design.movie  | resell    | —         | —             | 108            | 49     | 6      | Porkbun LLC            |
 | cool.movie    | premium   | $1,000    | $1,000        | 76             | 38     | 4      | name.com               |
 | abc.movie     | available | $446.98   | —             | 102            | 50     | 3      | namecheap              |
 | new.movie     | resell    | —         | —             | 82             | 49     | 3      | Porkbun LLC            |
