@@ -1,22 +1,22 @@
-# Available .MOVIE One-Word Domains (9,563)
+# Available .MOVIE One-Word Domains (12,019)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C563%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C563%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C019%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .movie one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .movie one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,019 domains** on the canonical page below.
 
-**Public extract:** 9,563 rows · **Live catalog:** 9,563 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,019 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/movie`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MOVIE one-word domain
 
 ### Files
 
-- `movie.csv` — public CSV extract (9,563 rows)
-- `movie.json` — public JSON extract (9,563 rows)
+- `movie.csv` — public CSV extract (1,000 rows)
+- `movie.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| echo.movie    | available | $69.99    | —             | 68             | 57     | 4      | name.com               |
-| pay.movie     | resell    | —         | —             | 84             | 60     | 3      | Wild West Domains, LLC |
-| digital.movie | premium   | $1,000    | $1,000        | 100            | 49     | 7      | name.com               |
-| alpha.movie   | available | $69.99    | $436.99       | 90             | 53     | 5      | name.com               |
-| info.movie    | resell    | —         | —             | 80             | 51     | 4      | NameCheap, Inc.        |
-| travel.movie  | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap              |
-| fast.movie    | available | $69.99    | $436.99       | 82             | 52     | 4      | name.com               |
-| design.movie  | resell    | —         | —             | 108            | 49     | 6      | Porkbun LLC            |
-| cool.movie    | premium   | $1,000    | $1,000        | 76             | 38     | 4      | name.com               |
-| abc.movie     | available | $446.98   | —             | 102            | 50     | 3      | namecheap              |
-| new.movie     | resell    | —         | —             | 82             | 49     | 3      | Porkbun LLC            |
-| about.movie   | premium   | $69.99    | $436.99       | 94             | 37     | 5      | name.com               |
-| life.movie    | available | $446.98   | —             | 84             | 50     | 4      | namecheap              |
-| video.movie   | resell    | —         | —             | 106            | 47     | 5      | Sav.com, LLC - 11      |
-| teen.movie    | premium   | $500      | $500          | 104            | 19     | 4      | name.com               |
-| clear.movie   | available | $69.99    | $436.99       | 90             | 49     | 5      | name.com               |
-| yes.movie     | resell    | —         | —             | 132            | 46     | 3      | Sav.com, LLC - 37      |
-| latest.movie  | premium   | $500      | $500          | 66             | 19     | 6      | name.com               |
-| air.movie     | available | $446.98   | —             | 84             | 49     | 3      | namecheap              |
-| big.movie     | resell    | —         | —             | 88             | 45     | 3      | Dynadot Inc            |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| skills.movie      | available | $69.99    | —             | 58             | 47     | 6      | name.com         |
+| tickets.movie     | resell    | —         | —             | 64             | 34     | 7      | GoDaddy.com, LLC |
+| ratings.movie     | premium   | $1,000    | —             | 53             | 19     | 7      | name.com         |
+| whynot.movie      | available | $69.99    | —             | 74             | 39     | 7      | name.com         |
+| justin.movie      | available | $69.99    | —             | 58             | 38     | 7      | name.com         |
+| etc.movie         | available | $69.99    | —             | 58             | 34     | 3      | name.com         |
+| Cats.movie        | available | $446.98   | —             | 59             | 33     | 4      | namecheap        |
+| partners.movie    | available | $69.99    | —             | 61             | 32     | 8      | name.com         |
+| letsgo.movie      | available | $69.99    | —             | 57             | 31     | 7      | name.com         |
+| videos.movie      | available | $69.99    | —             | 52             | 30     | 6      | name.com         |
+| SanDiego.movie    | available | $69.99    | —             | 74             | 29     | 9      | name.com         |
+| BlackFriday.movie | available | $446.98   | —             | 74             | 29     | 12     | namecheap        |
+| heroes.movie      | available | $69.99    | —             | 68             | 29     | 6      | name.com         |
+| blocks.movie      | available | $69.99    | —             | 53             | 29     | 6      | name.com         |
+| gems.movie        | available | $69.99    | —             | 70             | 28     | 4      | name.com         |
+| forms.movie       | available | $69.99    | —             | 54             | 28     | 5      | name.com         |
+| photos.movie      | available | $69.99    | —             | 54             | 28     | 6      | name.com         |
+| pages.movie       | available | $69.99    | —             | 52             | 28     | 5      | name.com         |
+| gods.movie        | available | $69.99    | —             | 72             | 27     | 4      | name.com         |
+| bees.movie        | available | $69.99    | —             | 54             | 27     | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,563-row public sample | 9,563 live domains                               |
+| 1,000-row public sample | 12,019 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
