@@ -807,6 +807,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 47351457-f153-4bcd-8658-c39ddb83dacb,teaspoonful.movie,available,69.99,,66,1,11,name.com,,
 473c8fb1-4899-4ed3-95f2-1e85121fe27b,strips.movie,available,69.99,,51,7,6,name.com,,
 474eee21-777d-4b3e-82b5-cc6e49edf25e,trussmember.movie,available,69.99,,50,1,12,name.com,,
+47653b0a-a787-4b85-a3a6-38c769f3267e,preview.movie,premium,,,80,27,7,,,
 4777660e-e746-4cf2-99b9-36fe4cdf0478,goonebetter.movie,available,69.99,,62,1,13,name.com,,
 478ad922-2c57-4560-bdde-fe7f25fb0d84,instride.movie,available,69.99,,72,5,9,name.com,,
 478c6af2-26fa-4c82-a005-5338758369fe,dues.movie,available,69.99,,70,6,4,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58df6cbd-4e7c-4654-8875-b9db838887ca,propernouns.movie,available,69.99,,48,1,12,name.com,,
 590ad67f-ec28-4bc5-bb0b-bcafa36267ad,remembrances.movie,available,69.99,,51,2,12,name.com,,
 59155667-24d8-489f-8503-9814813d4a50,herbbutter.movie,available,69.99,,80,1,11,name.com,,
-5922ffbf-99d5-4cb6-929f-af0a32816598,Itellalie.movie,available,446.98,,58,1,12,namecheap,,
