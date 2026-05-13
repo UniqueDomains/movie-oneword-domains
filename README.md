@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .movie one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,516 domains · **Median ask:** $101.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/movie`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.movie        | available | $69.99    | —             | 80             | 26     | 4      | name.com  |
-| Trex.movie        | available | $446.98   | —             | 80             | 24     | 5      | namecheap |
-| jewels.movie      | available | $69.99    | —             | 80             | 15     | 6      | name.com  |
-| ladies.movie      | available | $69.99    | —             | 80             | 17     | 6      | name.com  |
-| edamame.movie     | available | $69.99    | —             | 80             | 9      | 7      | name.com  |
-| gearup.movie      | available | $69.99    | —             | 80             | 16     | 7      | name.com  |
-| preview.movie     | premium   | —         | —             | 80             | 27     | 7      | —         |
-| toneup.movie      | available | $69.99    | —             | 80             | 5      | 7      | name.com  |
-| hangon.movie      | available | $69.99    | —             | 82             | 6      | 7      | name.com  |
-| makeit.movie      | available | $69.99    | —             | 82             | 22     | 7      | name.com  |
-| pierogi.movie     | available | $69.99    | —             | 82             | 7      | 7      | name.com  |
-| whynot.movie      | available | $69.99    | —             | 74             | 39     | 7      | name.com  |
-| ratings.movie     | premium   | $1,000    | —             | 53             | 19     | 7      | name.com  |
-| justin.movie      | available | $69.99    | —             | 58             | 38     | 7      | name.com  |
-| etc.movie         | available | $69.99    | —             | 58             | 34     | 3      | name.com  |
-| Cats.movie        | available | $446.98   | —             | 59             | 33     | 4      | namecheap |
-| partners.movie    | available | $69.99    | —             | 61             | 32     | 8      | name.com  |
-| SanDiego.movie    | available | $69.99    | —             | 74             | 29     | 9      | name.com  |
-| BlackFriday.movie | available | $446.98   | —             | 74             | 29     | 12     | namecheap |
-| heroes.movie      | available | $69.99    | —             | 68             | 29     | 6      | name.com  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.movie     | available | $69.99    | —             | 80             | 26     | 4      | name.com  |
+| Trex.movie     | available | $446.98   | —             | 80             | 24     | 5      | namecheap |
+| jewels.movie   | available | $69.99    | —             | 80             | 15     | 6      | name.com  |
+| ladies.movie   | available | $69.99    | —             | 80             | 17     | 6      | name.com  |
+| edamame.movie  | available | $69.99    | —             | 80             | 9      | 7      | name.com  |
+| gearup.movie   | available | $69.99    | —             | 80             | 16     | 7      | name.com  |
+| preview.movie  | premium   | —         | —             | 80             | 27     | 7      | —         |
+| toneup.movie   | available | $69.99    | —             | 80             | 5      | 7      | name.com  |
+| hangon.movie   | available | $69.99    | —             | 82             | 6      | 7      | name.com  |
+| makeit.movie   | available | $69.99    | —             | 82             | 22     | 7      | name.com  |
+| pierogi.movie  | available | $69.99    | —             | 82             | 7      | 7      | name.com  |
+| whynot.movie   | available | $69.99    | —             | 74             | 39     | 7      | name.com  |
+| ratings.movie  | premium   | $1,000    | —             | 53             | 19     | 7      | name.com  |
+| justin.movie   | available | $69.99    | —             | 58             | 38     | 7      | name.com  |
+| etc.movie      | available | $69.99    | —             | 58             | 34     | 3      | name.com  |
+| Cats.movie     | available | $446.98   | —             | 59             | 33     | 4      | namecheap |
+| partners.movie | available | $69.99    | —             | 61             | 32     | 8      | name.com  |
+| SanDiego.movie | available | $69.99    | —             | 74             | 29     | 9      | name.com  |
+| heroes.movie   | available | $69.99    | —             | 68             | 29     | 6      | name.com  |
+| blocks.movie   | available | $69.99    | —             | 53             | 29     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
