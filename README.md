@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .movie one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,516 domains · **Median ask:** $101.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/movie`  
 **Best for:** founders, investors, studios
 
@@ -73,9 +73,9 @@ print(df.head())
 | preview.movie  | premium   | —         | —             | 80             | 27     | 7      | —         |
 | toneup.movie   | available | $69.99    | —             | 80             | 5      | 7      | name.com  |
 | hangon.movie   | available | $69.99    | —             | 82             | 6      | 7      | name.com  |
-| makeit.movie   | available | $69.99    | —             | 82             | 22     | 7      | name.com  |
+| makeit.movie   | available | $69.99    | —             | 82             | 21     | 7      | name.com  |
 | pierogi.movie  | available | $69.99    | —             | 82             | 7      | 7      | name.com  |
-| whynot.movie   | available | $69.99    | —             | 74             | 39     | 7      | name.com  |
+| whynot.movie   | available | $69.99    | —             | 74             | 44     | 7      | name.com  |
 | ratings.movie  | premium   | $1,000    | —             | 53             | 19     | 7      | name.com  |
 | justin.movie   | available | $69.99    | —             | 58             | 38     | 7      | name.com  |
 | etc.movie      | available | $69.99    | —             | 58             | 34     | 3      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
