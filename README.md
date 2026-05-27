@@ -78,12 +78,12 @@ print(df.head())
 | whynot.movie   | available | $69.99    | —             | 74             | 44     | 7      | name.com  |
 | ratings.movie  | premium   | $1,000    | —             | 53             | 19     | 7      | name.com  |
 | justin.movie   | available | $69.99    | —             | 58             | 38     | 7      | name.com  |
-| etc.movie      | available | $69.99    | —             | 58             | 34     | 3      | name.com  |
 | Cats.movie     | available | $446.98   | —             | 59             | 33     | 4      | namecheap |
-| partners.movie | available | $69.99    | —             | 61             | 32     | 8      | name.com  |
+| etc.movie      | available | $69.99    | —             | 58             | 32     | 3      | name.com  |
+| partners.movie | available | $69.99    | —             | 61             | 31     | 8      | name.com  |
 | SanDiego.movie | available | $69.99    | —             | 74             | 29     | 9      | name.com  |
+| gods.movie     | available | $69.99    | —             | 72             | 29     | 4      | name.com  |
 | heroes.movie   | available | $69.99    | —             | 68             | 29     | 6      | name.com  |
-| blocks.movie   | available | $69.99    | —             | 53             | 29     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
