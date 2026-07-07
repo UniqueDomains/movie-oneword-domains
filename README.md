@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .movie one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,516 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,516 domains · **Median ask:** $101.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,516 domains · **Median ask:** $76.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/movie`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/movie`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MOVIE one-word domain
 
 ### Files
 
-- `movie.csv` — public CSV extract (1,000 rows)
-- `movie.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `movie.csv`, public CSV extract (1,000 rows)
+- `movie.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.movie     | available | $69.99    | —             | 80             | 26     | 4      | name.com  |
-| Trex.movie     | available | $446.98   | —             | 80             | 24     | 5      | namecheap |
-| jewels.movie   | available | $69.99    | —             | 80             | 15     | 6      | name.com  |
-| ladies.movie   | available | $69.99    | —             | 80             | 17     | 6      | name.com  |
-| edamame.movie  | available | $69.99    | —             | 80             | 9      | 7      | name.com  |
-| gearup.movie   | available | $69.99    | —             | 80             | 16     | 7      | name.com  |
-| preview.movie  | premium   | —         | —             | 80             | 27     | 7      | —         |
-| toneup.movie   | available | $69.99    | —             | 80             | 5      | 7      | name.com  |
-| hangon.movie   | available | $69.99    | —             | 82             | 6      | 7      | name.com  |
-| makeit.movie   | available | $69.99    | —             | 82             | 21     | 7      | name.com  |
-| pierogi.movie  | available | $69.99    | —             | 82             | 7      | 7      | name.com  |
-| whynot.movie   | available | $69.99    | —             | 74             | 44     | 7      | name.com  |
-| ratings.movie  | premium   | $1,000    | —             | 53             | 19     | 7      | name.com  |
-| justin.movie   | available | $69.99    | —             | 58             | 38     | 7      | name.com  |
-| Cats.movie     | available | $446.98   | —             | 59             | 33     | 4      | namecheap |
-| etc.movie      | available | $69.99    | —             | 58             | 32     | 3      | name.com  |
-| partners.movie | available | $69.99    | —             | 61             | 31     | 8      | name.com  |
-| SanDiego.movie | available | $69.99    | —             | 74             | 29     | 9      | name.com  |
-| gods.movie     | available | $69.99    | —             | 72             | 29     | 4      | name.com  |
-| heroes.movie   | available | $69.99    | —             | 68             | 29     | 6      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| act.movie        | available | $69.99    | —             | high           | low    | 3      | name.com          |
+| yes.movie        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 37 |
+| dvd.movie        | premium   | $500      | —             | high           | low    | 3      | name.com          |
+| ale.movie        | available | $69.99    | —             | medium         | low    | 3      | name.com          |
+| web.movie        | premium   | $854      | $854          | high           | medium | 3      | namesilo          |
+| bar.movie        | available | $69.99    | —             | high           | low    | 3      | name.com          |
+| asia.movie       | premium   | $854      | $854          | high           | low    | 4      | namesilo          |
+| bye.movie        | available | $69.99    | —             | high           | low    | 3      | name.com          |
+| funny.movie      | premium   | $500      | —             | high           | low    | 5      | name.com          |
+| car.movie        | available | $69.99    | —             | high           | medium | 3      | name.com          |
+| network.movie    | premium   | $854      | $854          | high           | medium | 7      | namesilo          |
+| cod.movie        | available | $69.99    | —             | high           | low    | 3      | name.com          |
+| conclusive.movie | premium   | $69.99    | —             | medium         | low    | 10     | name.com          |
+| coy.movie        | available | $69.99    | $436.99       | medium         | low    | 3      | name.com          |
+| die.movie        | available | $69.99    | —             | medium         | low    | 3      | name.com          |
+| DIY.movie        | available | $69.99    | —             | high           | low    | 3      | name.com          |
+| dot.movie        | available | $69.99    | —             | high           | medium | 3      | name.com          |
+| eat.movie        | available | $69.99    | —             | high           | low    | 3      | name.com          |
+| Fla.movie        | available | $69.99    | —             | medium         | low    | 3      | name.com          |
+| flu.movie        | available | $69.99    | —             | medium         | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .movie domains. The names range from broad keywords such as girls.movie, homes.movie, and finals.movie to shorter or less literal terms like Acup.movie and barup.movie. For founders, the main question is whether the word feels memorable, clear, and credible on a .movie ending. For investors, the key test is whether the keyword has obvious commercial use and enough buyer relevance to support resale interest. The median ask is 101.18, but low entry price alone does not make a name strong. Compare each domain on semantic fit, spelling clarity, and likely renewal burden before choosing.
+This list covers 12,516 one-word domain names registered under the .movie extension, ranging from everyday nouns such as tips.movie and butterflies.movie to compact compound terms like dogwalking.movie and solarenergy.movie. Median asking price across the set is $76.61, making these .movie names worth a look for founders wanting a memorable, ownable name and for investors scanning newer TLD inventory for pricing patterns. Because .movie is a smaller extension than .com, evaluating spelling clarity, brand fit, and renewal cost matters before locking in a purchase.
 
-- Prioritize words that make immediate sense on .movie
-- Check spelling clarity on names like WiFi.movie or Trex.movie
-- Use median ask 101.18 as a basic pricing anchor
-- Treat weak keyword-to-extension fit as added risk
+- 12,516 one-word .movie domain names in this set
+- Median asking price: $76.61 across the list
+- Mix of short nouns and compound one-word names
+- Check renewal cost and spelling clarity before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
