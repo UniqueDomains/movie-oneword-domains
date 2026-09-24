@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .movie one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,731 domains · **Median ask:** $50.95 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/movie`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| correct.movie    | available | $69.99    | $436.99       | high           | low    | 7      | name.com          |
 | yes.movie        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 37 |
 | bang.movie       | available | $69.99    | —             | high           | low    | 4      | name.com          |
 | count.movie      | available | $69.99    | —             | high           | low    | 5      | name.com          |
@@ -76,14 +75,15 @@ print(df.head())
 | azo.movie        | available | $40.98    | $446.98       | low            | low    | 3      | namecheap         |
 | asia.movie       | premium   | $854      | $854          | high           | low    | 4      | namesilo          |
 | bar.movie        | available | $69.99    | —             | high           | low    | 3      | name.com          |
-| funny.movie      | premium   | $500      | —             | high           | low    | 5      | name.com          |
+| funny.movie      | premium   | $512      | $512          | medium         | low    | 5      | namesilo          |
 | bay.movie        | available | $40.98    | $446.98       | low            | low    | 3      | namecheap         |
 | network.movie    | premium   | $1,040    | $1,040        | low            | low    | 7      | namecheap         |
 | bye.movie        | available | $69.99    | —             | high           | low    | 3      | name.com          |
 | conclusive.movie | premium   | $69.99    | —             | medium         | low    | 10     | name.com          |
 | car.movie        | available | $69.99    | —             | high           | medium | 3      | name.com          |
-| cod.movie        | available | $69.99    | —             | high           | low    | 3      | name.com          |
-| coy.movie        | available | $69.99    | $436.99       | medium         | low    | 3      | name.com          |
+| cod.movie        | available | $40.98    | $446.98       | low            | low    | 3      | namecheap         |
+| coy.movie        | available | $47.99    | $349.99       | low            | low    | 3      | namesilo          |
+| die.movie        | available | $69.99    | —             | medium         | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
