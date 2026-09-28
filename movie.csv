@@ -1,5 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 5413b7d2-f296-4b75-9bb0-eb5bd8d987cf,serving.movie,available,69.99,436.99,high,low,7,name.com,,,25/09/2026 23:06
+dd872e68-d466-42ec-8b04-666e0c19105d,stamps.movie,available,40.98,446.98,medium,low,6,namecheap,,,28/09/2026 08:32
 63f663e7-dc29-42a8-a870-8be2126139ce,ditch.movie,available,47.99,349.99,high,low,5,namesilo,,,24/09/2026 23:15
 b4e7787f-046a-4367-9940-06f1e259ac30,courtyard.movie,available,47.99,349.99,high,low,9,namesilo,,,27/09/2026 06:58
 065d479a-72a1-43fb-87ad-3c0335161e10,penultima.movie,available,40.98,446.98,medium,low,9,namecheap,,,08/09/2026 15:14
@@ -91,6 +92,7 @@ d5a63e94-14e2-4eca-b509-f4cfcaf9d47d,smoothly.movie,available,40.98,446.98,high,
 990ba0ea-e7dc-43c6-9bf4-f66151fb9443,beau.movie,available,69.99,436.99,high,low,4,name.com,,,13/08/2026 17:13
 c380d236-004d-4075-ad04-0d4a28b62f8a,thus.movie,available,69.99,,high,low,4,name.com,,,
 7355b668-5521-48af-bd64-489aff6cef7b,notability.movie,available,40.98,446.98,high,low,10,namecheap,,,03/09/2026 22:04
+3e5b732e-2a64-40a5-93e9-283912e18fa1,engel.movie,available,36.43,279.65,high,low,5,spaceship,,,28/09/2026 04:50
 d5918468-c925-43ad-b0f1-1bc4bd8564a7,year.movie,available,69.99,,high,low,4,name.com,,,
 44f3fe03-bc3c-4188-9a65-ad5b31e3b59a,orbicular.movie,available,40.98,446.98,medium,low,9,namecheap,,,08/08/2026 10:11
 53e32582-4ef7-4a24-bad0-d73a6360ad36,stand.movie,available,69.99,,high,low,5,name.com,,,
@@ -98,7 +100,7 @@ d5918468-c925-43ad-b0f1-1bc4bd8564a7,year.movie,available,69.99,,high,low,4,name
 bd7dd171-1034-45a9-bfd0-b648626d4cc4,rapacity.movie,available,40.98,446.98,medium,low,8,namecheap,,,21/09/2026 08:45
 3780050b-e7a8-4910-a64b-f4281d393e5d,nonunion.movie,available,40.98,446.98,medium,low,8,namecheap,,,03/09/2026 20:58
 6901b583-3c8b-4308-9a6a-39f0b7902041,whereby.movie,available,69.99,,medium,low,7,name.com,,,
-f6d230df-9c93-4937-a915-cb834528ae57,cream.movie,available,40.98,446.98,high,low,5,namecheap,,,23/09/2026 06:38
+f6d230df-9c93-4937-a915-cb834528ae57,cream.movie,available,36.43,279.65,high,low,5,spaceship,,,28/09/2026 04:30
 81dd4a2a-1b24-4f09-adfa-8d5ac040437c,rumble.movie,available,40.98,446.98,high,low,6,namecheap,,,20/08/2026 20:36
 3657b567-9eb8-499d-a008-905c0f5254a0,spheroidal.movie,available,40.98,446.98,medium,low,10,namecheap,,,16/08/2026 05:22
 ced0c815-79e0-4a84-bb82-97fc2528f9b1,stretchy.movie,available,40.98,446.98,high,low,8,namecheap,,,10/09/2026 22:32
@@ -161,6 +163,7 @@ eeb6bb45-f7b0-4034-9502-a39b812e191f,snuff.movie,available,40.98,446.98,high,low
 d063ed73-de68-422f-8870-59485ac18b8e,unfed.movie,available,40.98,446.98,medium,low,5,namecheap,,,12/09/2026 10:04
 9791c639-0d87-4968-8c3a-b201ad3b2e7c,dulcet.movie,available,40.98,446.98,high,low,6,namecheap,,,14/08/2026 20:59
 fd8366b0-1058-45db-987d-f4e2537f500c,unscalable.movie,available,40.98,446.98,medium,low,10,namecheap,,,12/09/2026 05:23
+f9f0b5b2-cf68-4eb2-998f-f21ccaf298ff,vivian.movie,available,36.43,279.65,high,low,6,spaceship,,,28/09/2026 03:58
 e3a7ee82-bcb0-4bf1-b72e-760f3f85d783,biryani.movie,available,47.99,349.99,high,low,7,namesilo,,,23/09/2026 20:44
 506f1140-60d6-4986-805a-3a47cab33782,jumpy.movie,available,40.98,446.98,medium,low,5,namecheap,,,11/08/2026 09:53
 aa74d8ec-3e1f-434f-9427-db97a3c60e8f,avignon.movie,available,47.99,349.99,medium,low,7,namesilo,,,21/09/2026 09:35
@@ -195,7 +198,8 @@ ec5cb447-acfa-454a-b4d2-f191b180f258,unsecured.movie,available,40.98,446.98,medi
 e1fb789a-00d9-4ed7-beaa-74dacd164375,glace.movie,available,40.98,446.98,medium,low,5,namecheap,,,13/08/2026 09:46
 dd94f6da-726c-4a0c-9321-68b3e756dcca,unnecessary.movie,available,270.2,270.2,high,low,11,cloudflare,,,28/09/2026 03:22
 1ae05285-8371-4c2c-a0c2-094977460aae,parasitic.movie,available,40.98,446.98,medium,low,9,namecheap,,,17/08/2026 10:15
-1cd44816-1861-401f-9b82-b41488c5b868,vitamins.movie,available,40.98,446.98,high,low,8,namecheap,,,19/09/2026 23:20
+1cd44816-1861-401f-9b82-b41488c5b868,vitamins.movie,available,47.99,349.99,medium,low,8,namesilo,,,28/09/2026 08:13
+f6e7d397-c705-4311-9f0a-02c48cf36af0,allows.movie,available,36.43,279.65,low,low,6,spaceship,,,28/09/2026 08:44
 6b786876-ca1b-4053-aaae-a0e263e20c0b,salacity.movie,available,47.99,349.99,medium,low,8,namesilo,,,22/09/2026 16:54
 b9da2e98-b51d-48da-8acb-198446240c4f,police.movie,available,69.99,,high,low,6,name.com,,,
 b8efeb18-b0c9-443d-a967-cf1f2145ec9f,berg.movie,available,47.99,349.99,high,low,4,namesilo,,,18/09/2026 02:21
@@ -310,6 +314,7 @@ f06187e2-0492-4079-b96f-b504d5561467,language.movie,available,47.99,349.99,high,
 fd1af2ad-9c6f-4f63-9b0b-c808736a0e6a,arsenic.movie,available,40.98,446.98,medium,low,7,namecheap,,,13/09/2026 21:07
 a55db9b4-c8aa-491a-9cc5-a5b182828fd5,statewide.movie,available,40.98,446.98,high,low,9,namecheap,,,10/09/2026 19:10
 e783121c-d6fe-43f0-b222-64e55cf52412,sonsie.movie,available,40.98,446.98,medium,low,6,namecheap,,,10/08/2026 20:34
+71fdeb2e-b2ad-475b-b958-6c7707615fac,mia.movie,available,46,,high,medium,3,unstoppable,,,28/09/2026 07:40
 db4317a7-db25-4843-bf3b-917226c6b007,deejay.movie,available,69.99,,high,low,6,name.com,,,
 c6155952-7748-4529-a594-f5a549d37ba3,afterbirth.movie,available,47.99,349.99,medium,low,10,namesilo,,,17/09/2026 15:34
 4587846c-92cd-44d9-b714-78f77cdddd23,asklepios.movie,available,47.99,349.99,medium,low,9,namesilo,,,17/09/2026 13:21
@@ -325,6 +330,7 @@ ae57e1bd-a707-416a-ae73-6d1453a80b23,adopted.movie,available,40.98,446.98,high,l
 91c5c779-43bb-4e34-a5cd-930693274505,weapons.movie,available,47.99,349.99,medium,low,7,namesilo,,,25/09/2026 17:10
 fe8523f7-8299-4155-8204-93503340b30b,amorphous.movie,available,40.98,446.98,medium,low,9,namecheap,,,
 052d7690-32f8-4ce4-a3e6-3e7181fd5268,disliked.movie,available,40.98,446.98,medium,low,8,namecheap,,,14/08/2026 11:29
+2f1c0250-572f-4440-a31b-3b3f9ec9e1f4,davey.movie,available,40.98,446.98,medium,low,5,namecheap,,,28/09/2026 07:55
 9fb6688f-4a33-4311-b27c-27bd3ad5fddc,swingeing.movie,available,40.98,446.98,medium,low,9,namecheap,,,11/09/2026 05:48
 148ab53d-9ac0-4c32-84b1-592c4a617e41,alveolus.movie,available,47.99,349.99,medium,low,8,namesilo,,,17/09/2026 22:03
 89ab1efe-e9c5-4361-92a6-35423a37da76,counter.movie,available,47.99,349.99,high,low,7,namesilo,,,22/09/2026 05:49
@@ -397,7 +403,7 @@ bc7d4a38-524f-4a16-b704-22ecb29e385e,tangible.movie,available,40.98,446.98,high,
 f02f5eaa-c1df-49d3-91a3-781a4c050119,houston.movie,available,47.99,349.99,high,low,7,namesilo,,,27/09/2026 04:28
 24909f78-2ddf-4558-ba66-336599cd6275,nibbed.movie,available,40.98,446.98,low,low,6,namecheap,,,03/09/2026 16:57
 66d3cb3b-247b-4e54-ab54-9a0965255c27,achy.movie,available,40.98,446.98,medium,low,4,namecheap,,,
-bb9f750a-9970-4102-a25e-404f41689440,neuroscience.movie,available,40.98,446.98,high,low,12,namecheap,,,24/09/2026 07:20
+bb9f750a-9970-4102-a25e-404f41689440,neuroscience.movie,available,270.2,270.2,high,low,12,cloudflare,,,28/09/2026 04:12
 d445afde-87d8-47ce-a191-d94cfd1ca46b,flexile.movie,available,40.98,446.98,medium,low,7,namecheap,,,18/08/2026 08:06
 e92b2356-84ad-46ff-9e80-ad25115f651f,exegetic.movie,available,40.98,446.98,medium,low,8,namecheap,,,17/08/2026 16:59
 69b173ff-12b0-4942-a726-04887b359cab,proverbs.movie,available,47.99,349.99,high,low,8,namesilo,,,24/09/2026 07:04
@@ -444,10 +450,12 @@ abea8327-a5cd-4710-81e6-40171139b8b3,rootbound.movie,available,40.98,446.98,medi
 ceb97de5-2d6e-4438-9978-ec8edf934092,overseas.movie,available,40.98,446.98,high,medium,8,namecheap,,,21/09/2026 14:34
 0b5d684a-6c3c-49e6-93ea-0635273c1d9c,perforce.movie,available,40.98,446.98,medium,low,8,namecheap,,,15/09/2026 19:36
 8b35d5a4-a5fa-4675-8c44-bc8df5d613cb,arapaho.movie,available,69.99,436.99,medium,low,7,name.com,,,20/09/2026 00:08
+87564b72-d586-4f69-99d6-1df28083f5dd,pak.movie,available,47.99,349.99,high,low,3,namesilo,,,28/09/2026 03:33
 690ff810-522d-434c-b041-ed6158bf775b,nasally.movie,available,40.98,446.98,medium,low,7,namecheap,,,15/09/2026 16:10
 54b5fa57-92bf-4208-8626-0900797c45b6,bluster.movie,available,40.98,446.98,medium,low,7,namecheap,,,11/08/2026 01:07
 b80e2b3d-1009-4cae-90b2-5e5997e11b97,provider.movie,available,69.99,,high,low,8,name.com,,,
 c3ad26a6-ac1f-4dc5-884d-523fa90fdae3,tactual.movie,available,40.98,446.98,medium,low,7,namecheap,,,21/08/2026 00:04
+f82d1d83-bf79-4821-a2c3-ba403c04e349,billie.movie,available,270.2,270.2,medium,low,6,cloudflare,,,28/09/2026 07:55
 f20ea064-f08a-4209-9651-51ba76332be3,switch.movie,available,,,high,medium,6,,,,
 69c80355-0556-4dc2-8532-922913844061,veined.movie,available,40.98,446.98,medium,low,6,namecheap,,,13/09/2026 01:53
 eb10061a-30e7-4bd7-a0c6-3abe77ed350a,polyester.movie,available,69.99,,high,low,9,name.com,,,
@@ -471,6 +479,7 @@ b2630c7d-c3fd-4836-9409-5057fbf3ffd4,carping.movie,available,40.98,446.98,medium
 5cdee9a9-edcf-4f8f-8bee-4d605d5c7737,corvine.movie,available,40.98,446.98,medium,low,7,namecheap,,,13/08/2026 02:37
 8b54a88a-2b26-4153-86c4-7228191335ae,southern.movie,available,47.99,349.99,high,low,8,namesilo,,,27/09/2026 23:59
 cd000cc9-ee90-4b8c-ab16-11a36b844801,unlovely.movie,available,40.98,446.98,medium,low,8,namecheap,,,12/09/2026 15:12
+556f960d-ada6-4b95-a90c-f97cd3f4f561,dorothea.movie,available,270.2,270.2,medium,low,8,cloudflare,,,28/09/2026 07:54
 c6c5d78d-14ef-4951-ba95-733180c90db6,peiping.movie,available,47.99,349.99,medium,low,7,namesilo,,,23/09/2026 04:16
 c7347589-4a84-4049-8571-61b8d38ee358,harmonious.movie,available,40.98,446.98,high,low,10,namecheap,,,21/08/2026 01:03
 52868677-8f30-46bc-beb3-6ac592316f17,start.movie,available,40.98,446.98,high,medium,5,namecheap,,,27/09/2026 04:39
@@ -532,7 +541,7 @@ c8af90e4-5d9f-440d-8072-77c3115e26ba,ionized.movie,available,40.98,446.98,high,l
 b274de22-e514-4224-bd8e-2fb7314c4d02,atar.movie,available,40.98,446.98,medium,low,4,namecheap,,,20/09/2026 19:24
 1a7e601c-18fc-413e-b2cf-26b9a73d4ebe,assemblage.movie,available,47.99,349.99,high,low,10,namesilo,,,17/09/2026 17:28
 40c93763-0daf-498c-81d9-a1b870ac74bc,volleyball.movie,available,69.99,,high,low,10,name.com,,,
-a0447fdd-ab31-448c-b887-72242f0bbd2f,focused.movie,available,40.98,446.98,high,low,7,namecheap,,,18/08/2026 09:45
+a0447fdd-ab31-448c-b887-72242f0bbd2f,focused.movie,available,36.43,279.65,high,low,7,spaceship,,,28/09/2026 05:57
 e0d0b538-e5d0-4fbb-86ee-5c66269b80c4,lifelike.movie,available,40.98,446.98,high,low,8,namecheap,,,23/08/2026 01:41
 bc362f3c-ed1b-40db-86b5-f226d1f51f2e,evans.movie,available,47.99,349.99,high,low,5,namesilo,,,20/09/2026 10:48
 e50da77a-3e07-4a37-ad46-8db4d2d4fe22,bonfire.movie,available,40.98,446.98,high,low,7,namecheap,,,21/09/2026 21:51
@@ -567,7 +576,7 @@ e913da68-fe39-4fe6-9e65-946dc59540e3,screwing.movie,available,40.98,446.98,mediu
 90c7106a-8879-4c0a-8962-d109cb28f391,furnishing.movie,available,47.99,349.99,high,low,10,namesilo,,,28/09/2026 02:47
 c03097ab-bd86-41f7-ba39-b630bb84c851,fluky.movie,available,40.98,446.98,medium,low,5,namecheap,,,18/08/2026 09:19
 d416fb9c-9a78-45b7-bd52-6714396c7b29,lookouts.movie,available,47.99,349.99,medium,low,8,namesilo,,,18/09/2026 10:55
-ca504e18-56cc-4d43-bfc9-6e4e589833e9,chocolates.movie,available,40.98,446.98,high,low,10,namecheap,,,20/09/2026 08:51
+ca504e18-56cc-4d43-bfc9-6e4e589833e9,chocolates.movie,available,47.99,349.99,high,low,10,namesilo,,,28/09/2026 06:45
 87dc7a71-da14-4cd6-b7c0-669c72a81c5e,eroded.movie,available,40.98,446.98,medium,low,6,namecheap,,,17/08/2026 12:24
 00e8c7bf-3378-4784-b2e0-27d0e4549aa6,pretzel.movie,available,69.99,,high,low,7,name.com,,,
 531fe0fa-be66-416e-8b0b-17e68ab2c938,ankylosaur.movie,available,47.99,349.99,medium,low,10,namesilo,,,19/09/2026 09:52
@@ -609,6 +618,7 @@ a7c4fd82-7e04-4173-a957-45e88020b98e,disrupt.movie,available,69.99,436.99,high,l
 8e7d2ec2-6864-49fa-8d1a-78e4f4288cc6,uub.movie,available,47.99,349.99,medium,low,3,namesilo,,,20/09/2026 22:14
 f80c2e33-bee5-43ed-9e19-7a3ded291a3a,luggage.movie,available,69.99,,high,low,7,name.com,,,
 440729d7-4632-4671-9216-c3a5d2e5ea10,ballroom.movie,available,69.99,,high,low,8,name.com,,,
+960d10f4-0299-4757-9bce-a096a47644fc,mama.movie,available,46,,high,low,4,unstoppable,,,28/09/2026 06:17
 a45043a8-2122-4022-a613-598caad4fd80,agilely.movie,available,40.98,446.98,medium,low,7,namecheap,,,13/09/2026 18:16
 85497c1e-35a6-48fe-b4ef-44e1daf56a07,per.movie,available,69.99,,high,low,3,name.com,,,
 2c76aaf5-40aa-4dd9-a8cc-efeea430f6a3,nepali.movie,available,40.98,446.98,high,low,6,namecheap,,,03/09/2026 15:37
@@ -618,6 +628,7 @@ a270a0fe-3151-4f64-a7d9-e60cf0f566ba,rivals.movie,available,47.99,349.99,medium,
 cc91a92c-08f3-484d-8390-945a7ea81bf9,baboo.movie,available,40.98,446.98,high,low,5,namecheap,,,21/09/2026 12:51
 aa398a13-3963-4f4c-a5de-c2e630a58c2d,nne.movie,available,40.98,446.98,high,low,3,namecheap,,,15/09/2026 16:50
 0cb18bed-9b8b-42a0-ac18-f7dd13805669,arum.movie,available,40.98,446.98,medium,low,4,namecheap,,,06/08/2026 20:20
+d303e067-2792-4ef0-9731-78a451aa2385,geoff.movie,available,36.56,278.58,medium,low,5,porkbun,,,28/09/2026 07:55
 f009396a-4eaf-406a-88f7-bde6520cdba3,contrived.movie,available,40.98,446.98,medium,low,9,namecheap,,,12/08/2026 23:42
 c210d76c-badc-4bb9-9b68-d4a68877d4f8,burry.movie,available,40.98,446.98,medium,low,5,namecheap,,,08/08/2026 17:29
 4fb7f7cf-3ab9-476b-a692-1ddca5fadfd8,eastward.movie,available,40.98,446.98,high,low,8,namecheap,,,14/08/2026 22:48
@@ -632,6 +643,7 @@ ca7047ae-bca3-4b85-8714-715dabea91cf,ham.movie,available,69.99,,high,low,3,name.
 4c266c29-5262-4d17-ac0c-9b0803ba147e,blixen.movie,available,47.99,349.99,medium,low,6,namesilo,,,22/09/2026 07:24
 3899cc6f-9bd8-418c-93c4-4129359327cf,streak.movie,available,36.56,278.58,high,low,6,porkbun,,,27/09/2026 11:41
 703b3815-d135-4628-900c-e9b85f16585f,barn.movie,available,69.99,,high,low,4,name.com,,,
+a4316ef9-7353-474e-a6d5-3e2c80ff6a8f,smells.movie,available,37.67,289.12,low,low,6,dynadot,,,28/09/2026 08:33
 c62d3dfb-30dc-4236-a991-e8c18f2e8801,pragmatic.movie,available,40.98,446.98,high,low,9,namecheap,,,21/08/2026 00:30
 55e809c8-d3d2-4adb-a5ec-e7333b4fb6d0,scarlett.movie,available,69.99,,high,low,8,name.com,,,
 33c2c5c1-91b4-40c2-ad15-a59e15d5b877,nullify.movie,available,40.98,446.98,high,low,7,namecheap,,,13/09/2026 06:46
@@ -736,7 +748,7 @@ ee0dfbad-c44a-4aad-85d7-de3d51f38b1d,soda.movie,available,47.99,349.99,high,low,
 31d607e5-e65a-4de0-ad82-dd827bd1ffa0,alb.movie,available,47.99,349.99,high,low,3,namesilo,,,18/09/2026 02:20
 d3aee9b7-2a92-49aa-9807-97af26e50622,agile.movie,available,40.98,446.98,high,medium,5,namecheap,,,21/09/2026 23:00
 aefb0993-adc0-4dfd-90ae-7c15dcc96fa4,bill.movie,available,47.99,349.99,high,low,4,namesilo,,,19/09/2026 17:00
-4246d4b2-b32a-4cb4-bf64-b87fd79b5c4b,loans.movie,available,47.99,349.99,high,low,5,namesilo,,,19/09/2026 21:43
+4246d4b2-b32a-4cb4-bf64-b87fd79b5c4b,loans.movie,available,46,349.99,high,low,5,unstoppable,,,28/09/2026 05:18
 7c301693-5bab-4a24-8485-070f65776b06,lotic.movie,available,40.98,446.98,medium,low,5,namecheap,,,24/08/2026 10:00
 71490734-5609-4a7f-a1d8-2fff9895830d,vexation.movie,available,40.98,446.98,medium,low,8,namecheap,,,
 03564074-d311-4f89-b1bf-9571dc7554b9,unchained.movie,available,40.98,446.98,high,low,9,namecheap,,,12/09/2026 04:54
@@ -762,6 +774,7 @@ f05723a4-cfb7-452a-aafe-96c38bbbdd05,italian.movie,available,40.98,446.98,high,l
 4a1f0bd5-cb88-43db-92c5-e0377b53ff4b,echo.movie,available,69.99,,high,medium,4,name.com,,,
 e97599a3-74d5-4290-a318-57a472862309,wittily.movie,available,47.99,349.99,medium,low,7,namesilo,,,16/09/2026 11:35
 8265153e-87a5-44bd-86ce-6bbd679cb4af,lingually.movie,available,40.98,446.98,medium,low,9,namecheap,,,15/09/2026 12:28
+be76b5fa-a352-41d0-a5dc-b89b42663743,enforcement.movie,available,47.99,349.99,medium,low,11,namesilo,,,28/09/2026 08:21
 1b82fc53-dd59-43e6-853d-1826ebfee6ee,lara.movie,available,37.67,289.12,high,low,4,dynadot,,,27/09/2026 19:35
 2c679091-9a9f-472e-bad6-c8a77ad34c89,parisian.movie,available,40.98,446.98,high,low,8,namecheap,,,08/09/2026 01:34
 2bc40113-b255-45fc-88c6-bb922c98bfe5,soporific.movie,available,40.98,446.98,medium,low,9,namecheap,,,21/08/2026 16:58
@@ -800,6 +813,7 @@ e4c13546-40fa-4cad-bce3-3f78ee3cbc27,attract.movie,available,69.99,,high,low,7,n
 e8ae4107-8d71-4854-8ca0-747382325593,gravel.movie,available,47.99,349.99,high,low,6,namesilo,,,21/09/2026 17:36
 f7701419-456e-4ba0-8e03-d4b226edf708,recall.movie,available,40.98,446.98,high,low,6,namecheap,,,24/09/2026 11:46
 ca0506bc-c9e3-49a8-a86f-849d5b758a47,apical.movie,available,40.98,446.98,medium,low,6,namecheap,,,05/08/2026 23:58
+138bacb9-dbfc-4fad-979a-fcf0534b8f1d,pact.movie,available,36.43,279.65,high,low,4,spaceship,,,28/09/2026 06:32
 4fa369cb-38f9-4aa7-999c-f50cc6db508c,jenkins.movie,available,47.99,349.99,high,low,7,namesilo,,,25/09/2026 12:14
 f14e28a8-3f5c-49db-b2e9-4161efd73b69,recidivist.movie,available,47.99,349.99,medium,low,10,namesilo,,,21/09/2026 15:57
 a8c6233f-58e6-4669-a7fb-41de460dadfa,corsican.movie,available,40.98,446.98,high,low,8,namecheap,,,13/08/2026 02:33
@@ -820,6 +834,7 @@ a9cbb5c2-dfa7-4420-96b8-ec02a9d70a3e,greenly.movie,available,40.98,446.98,medium
 26180a8d-2f51-4d83-aad5-399817766ca3,missiles.movie,available,47.99,349.99,low,low,8,namesilo,,,28/09/2026 00:20
 9a142f2e-20a4-40c1-b525-d78a976a61bc,puffed.movie,available,40.98,446.98,high,low,6,namecheap,,,09/09/2026 05:37
 dff910b8-4e17-499a-9671-0fb94715d38d,arbiter.movie,available,40.98,446.98,high,low,7,namecheap,,,20/09/2026 00:41
+6e58ea10-38fc-4e00-80ec-35cccb854b04,handful.movie,available,37.67,289.12,high,low,7,dynadot,,,28/09/2026 05:45
 0f2f5fd7-3471-49c5-be01-475b840666c2,harmonical.movie,available,40.98,446.98,medium,low,10,namecheap,,,12/08/2026 22:48
 34ab0677-1fbf-4036-8a4f-8d69b5a804a9,unformed.movie,available,40.98,446.98,medium,low,8,namecheap,,,12/09/2026 10:39
 c7d3de02-d193-493a-a3e2-b1899e8ad751,deliberate.movie,available,40.98,446.98,high,low,10,namecheap,,,11/08/2026 13:56
@@ -842,6 +857,7 @@ c22ed4ef-557a-459d-ac53-d3e8c01b8c51,cubist.movie,available,40.98,446.98,high,lo
 8a5d809b-4544-4e4e-b231-749224f0e20b,gracious.movie,available,47.99,349.99,high,low,8,namesilo,,,24/09/2026 00:42
 d054fa48-255b-4cde-8864-f2f4ae95372d,sunlight.movie,available,69.99,,high,low,8,name.com,,,
 440b9662-6432-44c0-9749-c705648bf60c,bistre.movie,available,40.98,446.98,medium,low,6,namecheap,,,23/09/2026 22:12
+f05be982-a644-4703-bf03-c8d1d7637881,pause.movie,available,40.98,446.98,high,low,5,namecheap,,,28/09/2026 06:34
 570dfbbf-ee67-4d2d-8b8e-159e1f6d3d37,undefeated.movie,available,40.98,446.98,high,low,10,namecheap,,,12/09/2026 07:12
 5318078a-5d8a-4404-a02e-5c169a915514,furry.movie,available,40.98,446.98,high,medium,5,namecheap,,,18/08/2026 18:53
 aa2a24ce-0a93-4590-a0ee-ac4346bf3c3b,destinies.movie,available,47.99,349.99,high,low,9,namesilo,,,20/09/2026 07:12
@@ -857,16 +873,19 @@ c68a01e2-9f31-40d9-a63f-13760d839555,maui.movie,available,47.99,349.99,high,low,
 92666e6d-edc6-42bf-9679-407b42ae4c3f,torment.movie,available,40.98,446.98,medium,low,7,namecheap,,,14/08/2026 21:14
 e55d4333-0aea-45e6-9017-46a08e17cbd9,grotesque.movie,available,40.98,446.98,medium,low,9,namecheap,,,
 4825290c-8ee3-440f-bc1c-a075cc20fb98,arequipa.movie,available,47.99,349.99,medium,low,8,namesilo,,,20/09/2026 03:53
+d8d7e5f1-4191-48ad-a661-b94e01124070,cries.movie,available,47.99,349.99,low,low,5,namesilo,,,28/09/2026 08:31
 cc41647f-0d46-44ee-9273-de377b8c2281,earle.movie,available,47.99,349.99,medium,low,5,namesilo,,,26/09/2026 03:17
 e2b5bbf9-a11e-4ac7-ba94-f33b5cc44185,swords.movie,available,69.99,,medium,low,6,name.com,,,
 10c74ce1-61e1-43eb-96cd-2005e3b2a009,reasonless.movie,available,40.98,446.98,medium,low,10,namecheap,,,11/08/2026 22:42
 da95de27-ceda-449a-8313-667252bd82d3,convert.movie,available,40.98,446.98,high,low,7,namecheap,,,24/09/2026 17:55
 67022816-ddac-4877-988a-e6d6c31e5af1,wayward.movie,available,40.98,446.98,medium,low,7,namecheap,,,13/09/2026 08:49
+ba73b4cd-dece-474a-a0d4-7454baa2cc25,formation.movie,available,36.43,279.65,high,low,9,spaceship,,,28/09/2026 05:38
 bb60e7d9-7534-4914-a54d-85a89d99346e,uptown.movie,available,40.98,446.98,high,low,6,namecheap,,,12/09/2026 23:28
 61b9ed9c-0113-43d7-8256-d6b928f12aea,creaseless.movie,available,40.98,446.98,medium,low,10,namecheap,,,13/08/2026 05:47
 a5c75261-970d-4a51-9f6a-2f674c4c7cf1,lan.movie,available,69.99,,high,low,3,name.com,,,
 4c52089e-6fca-423e-91c4-3b8bf380aebc,nebulose.movie,available,40.98,446.98,medium,low,8,namecheap,,,12/08/2026 12:43
 5c724259-bf3d-4c48-aeba-8ca19678a911,tiff.movie,available,47.99,349.99,high,low,4,namesilo,,,23/09/2026 13:14
+1159c4a7-cd92-422a-8dc6-df0977ca0a62,switching.movie,available,47.99,349.99,high,low,9,namesilo,,,28/09/2026 06:49
 0f602d88-f1b0-47d5-a374-3834517f5279,incan.movie,available,40.98,446.98,medium,low,5,namecheap,,,22/08/2026 00:44
 c492e14d-6ef7-4631-814e-033dccc2c387,trigger.movie,available,47.99,349.99,high,low,7,namesilo,,,25/09/2026 06:46
 c51296ad-dbcb-4fb8-9f80-1b4bc56dd942,median.movie,available,40.98,446.98,high,low,6,namecheap,,,25/09/2026 18:47
@@ -913,6 +932,7 @@ ae4187c0-089c-4905-88c4-0322812617ca,exhusband.movie,available,40.98,446.98,medi
 e4673883-2b00-4802-bf7d-34f898894227,harmonized.movie,available,40.98,446.98,high,low,10,namecheap,,,12/08/2026 22:50
 98d2d38d-8c7b-490f-ae56-e1ddbe8d2a43,scrimmage.movie,available,47.99,349.99,high,low,9,namesilo,,,22/09/2026 16:24
 18b2f216-dc32-46c8-b482-554e4eed2339,chamomile.movie,available,47.99,349.99,high,low,9,namesilo,,,19/09/2026 13:01
+1468be58-505d-4c29-a50e-630a442d495d,clues.movie,available,36.43,279.65,medium,low,5,spaceship,,,28/09/2026 05:05
 3b3d22c4-f6f2-4981-9668-0bacf38754bf,pasty.movie,available,40.98,446.98,high,low,5,namecheap,,,20/08/2026 15:21
 e62b2bd6-1f2c-4b4e-840e-5445bb0d64d9,sorrel.movie,available,40.98,446.98,medium,low,6,namecheap,,,11/08/2026 06:31
 16fec0c7-f219-470f-ab03-8c8513bdd23f,piebald.movie,available,40.98,446.98,medium,low,7,namecheap,,,03/09/2026 10:37
@@ -952,6 +972,7 @@ b156c0c5-a8dc-4b27-b1ae-21f645a093c6,exigent.movie,available,40.98,446.98,medium
 11a561ac-9d23-4752-9b71-927080b6dee6,sexiness.movie,available,69.99,436.99,high,low,8,name.com,,,18/09/2026 16:14
 c8618477-0e39-4bf2-bc73-7bef07aa95bf,oblige.movie,available,40.98,446.98,high,low,6,namecheap,,,03/09/2026 23:41
 042b7f5d-29ba-4212-bc3f-6cac34da5e7c,teased.movie,available,40.98,446.98,medium,low,6,namecheap,,,11/09/2026 09:55
+7e6a9480-ec8f-4841-918d-a8fe185abc30,towers.movie,available,36.43,279.65,medium,low,6,spaceship,,,28/09/2026 08:26
 ce0b4820-4956-4c39-9741-49ed7039ea0f,tetchy.movie,available,40.98,446.98,medium,low,6,namecheap,,,22/08/2026 10:31
 a3b9be2e-3bcd-4389-b705-c27f6acaf93c,loudly.movie,available,40.98,446.98,medium,low,6,namecheap,,,18/08/2026 12:25
 37a806e3-c0b0-4ad5-bd60-37a3003347b2,sparkling.movie,available,40.98,446.98,high,low,9,namecheap,,,15/08/2026 14:45
@@ -978,24 +999,3 @@ b98047ed-5bfd-44be-a856-8686916cded9,convict.movie,available,40.98,446.98,high,l
 99be65db-96f9-4fb8-b3dd-e737b159fd53,dai.movie,available,47.99,349.99,high,low,3,namesilo,,,26/09/2026 00:53
 921567f5-360f-4934-bf77-80b40a6ae91e,slickly.movie,available,40.98,446.98,medium,low,7,namecheap,,,14/09/2026 21:36
 f00523a2-25ad-4bce-8557-d999a3b5d40a,accessories.movie,available,47.99,349.99,medium,low,11,namesilo,,,25/09/2026 02:50
-70b91e3f-ced9-4899-9d63-b74981c26162,adenoma.movie,available,47.99,349.99,medium,low,7,namesilo,,,17/09/2026 07:30
-9c4c0392-ad99-4765-96ca-e45e82aa1cb6,ramp.movie,available,47.99,349.99,high,low,4,namesilo,,,18/09/2026 11:33
-7b13b442-1b01-4666-87c9-05f74825e292,cody.movie,available,40.98,446.98,high,low,4,namecheap,,,25/09/2026 03:39
-bc4243ad-bd8e-4bb9-84e4-d121edf2d68f,dew.movie,available,69.99,,high,low,3,name.com,,,
-36d04db5-5b83-4071-8baf-9f656380a24d,specialist.movie,available,36.56,278.58,high,low,10,porkbun,,,28/09/2026 02:23
-928767d0-635b-42f6-98e4-8afb2ac164d5,audi.movie,available,,,high,high,4,,,,
-0fbd5a4e-5296-4ead-8485-7a564988546a,degenerate.movie,available,69.99,436.99,medium,low,10,name.com,,,13/08/2026 20:16
-7c48db9d-a3b8-45ce-9b7d-34e89cb792ec,excursion.movie,available,69.99,,high,low,9,name.com,,,
-7d83f717-fc28-4608-b07e-2d75bca9f86e,existed.movie,available,37.67,289.12,medium,low,7,dynadot,,,27/09/2026 21:59
-89b64f93-a102-4df0-9d4e-7441ec690530,champs.movie,available,47.99,349.99,medium,low,6,namesilo,,,20/09/2026 13:31
-d2b3d3aa-a9b3-45b3-83b7-861cf2cec299,isoclinic.movie,available,40.98,446.98,medium,low,9,namecheap,,,22/08/2026 11:02
-65b7ad4f-74de-4a94-a355-36e0c1af5239,menacingly.movie,available,40.98,446.98,medium,low,10,namecheap,,,15/09/2026 14:03
-e1961fb9-804c-4c81-b324-64f998d9d568,truffle.movie,available,69.99,,high,low,7,name.com,,,
-5fb8f09b-ec33-4ba0-9a24-75711d4adf0f,accounting.movie,available,37.67,289.12,high,low,10,dynadot,,,28/09/2026 02:35
-e18cf12e-f7b1-4db0-acf3-9c2cbfc250dd,pally.movie,available,40.98,446.98,high,low,5,namecheap,,,12/08/2026 07:42
-27fd32e5-e432-4e44-95a2-f4d01e7dfadb,acceptable.movie,available,40.98,446.98,high,low,10,namecheap,,,21/09/2026 15:23
-1f7fe571-dec2-4458-a54b-26a4126b9713,denny.movie,available,40.98,446.98,high,low,5,namecheap,,,25/09/2026 15:22
-6d462f14-8aaf-4ec8-93ce-49f613ffc8a9,babe.movie,available,69.99,,high,low,4,name.com,,,
-31770cda-5338-4dc9-8d56-4316513ebd0d,other.movie,available,47.99,349.99,high,low,5,namesilo,,,26/09/2026 00:34
-fe779d0f-5c37-4941-893e-81adbc5c6f72,unreactive.movie,available,40.98,446.98,medium,low,10,namecheap,,,12/09/2026 17:50
-d687d61d-9bb4-4738-997d-acca1d6bafb7,exclamation.movie,available,69.99,,high,low,11,name.com,,,
