@@ -1,10 +1,10 @@
-# Available .MOVIE One-Word Domains (28,902)
+# Available .MOVIE One-Word Domains (31,230)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C902%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C230%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .movie one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,902 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,230 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,902 domains · **Median ask:** $53.66 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 31,230 domains · **Median ask:** $55.02 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/movie`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| afm.movie | available | $270.20   | $270.20       | high           | low    | 3      | cloudflare  |
 | alb.movie | available | $47.99    | $349.99       | high           | low    | 3      | namesilo    |
 | asd.movie | available | $36.43    | $279.65       | high           | low    | 3      | spaceship   |
-| cfl.movie | available | $36.56    | $278.58       | high           | low    | 3      | porkbun     |
 | cfo.movie | available | $47.99    | $349.99       | high           | low    | 3      | namesilo    |
+| cip.movie | available | $270.20   | $270.20       | high           | low    | 3      | cloudflare  |
 | doi.movie | available | $69.99    | $599.99       | high           | low    | 3      | godaddy     |
 | don.movie | available | $40.98    | $446.98       | high           | low    | 3      | namecheap   |
+| elm.movie | available | $47.99    | $349.99       | high           | low    | 3      | namesilo    |
 | fad.movie | available | $40.98    | $446.98       | high           | low    | 3      | namecheap   |
+| fca.movie | available | $46       | —             | high           | low    | 3      | unstoppable |
 | ffa.movie | available | $36.43    | $279.65       | high           | low    | 3      | spaceship   |
 | fix.movie | available | $47.99    | $349.99       | high           | low    | 3      | namesilo    |
 | gel.movie | available | $47.99    | $349.99       | high           | low    | 3      | namesilo    |
 | gsm.movie | available | $270.20   | $270.20       | high           | low    | 3      | cloudflare  |
 | ham.movie | available | $36.43    | $279.65       | high           | low    | 3      | spaceship   |
 | iaa.movie | available | $69.99    | $436.99       | medium         | low    | 3      | name.com    |
+| igm.movie | available | $36.43    | $279.65       | high           | low    | 3      | spaceship   |
 | isn.movie | available | $40.98    | $446.98       | high           | low    | 3      | namecheap   |
 | kai.movie | available | $36.43    | $279.65       | high           | medium | 3      | spaceship   |
-| lav.movie | available | $40.98    | $446.98       | high           | low    | 3      | namecheap   |
-| mia.movie | available | $46       | —             | high           | medium | 3      | unstoppable |
-| mop.movie | available | $69.99    | —             | high           | low    | 3      | name.com    |
-| mug.movie | available | $47.99    | $349.99       | high           | low    | 3      | namesilo    |
-| nay.movie | available | $40.98    | $446.98       | medium         | low    | 3      | namecheap   |
+| lav.movie | available | $40.98    | $446.98       | medium         | low    | 3      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,902 live domains                        |
+| 1,000-row public sample | 31,230 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 6 high-demand names under $2,500           |
+| Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOVIE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
